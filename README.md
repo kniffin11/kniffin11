@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sam Kniffin
-- 👀 I’m interested in soccer
+- 👀 I’m interested in soccer and programming
 - 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kniffin29@gmail.com
 
 Languages: HTML, CSS, Python, Java, C++, JavaScript, Matlab, and C#. 
 
