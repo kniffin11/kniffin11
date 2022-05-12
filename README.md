@@ -4,9 +4,9 @@
 - 📫 How to reach me kniffin29@gmail.com
 
 Languages: HTML, CSS, Python, Java, C++, JavaScript, Matlab, and C# is in progress. 
-Frameworks: JQuery, Flask, Spring, Node.js, React.js, Express.js
-Databases: MySQL, MongoDB
-Other Technologies: Git, PuTTY, Linux, AWS
+Frameworks: JQuery, Flask, Spring, Node.js, React.js, Express.js.
+Databases: MySQL, MongoDB.
+Other Technologies: Git, PuTTY, Linux, AWS.
 
 <!---
 kniffin11/kniffin11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
