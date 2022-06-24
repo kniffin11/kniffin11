@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sam Kniffin
 - 🌱 I’m currently looking for an entry level software engineering or full stack developer position
-- ✈️ I aspire to develop code with impact, to create a better future by making and improving new technologies that give hugely improved accessability, a more reliable and higher quality user experience, and an easier way to companies to manage their data
-- ☁️ My long term goal is to become a cloud developer, to be a part of the future of tech regarding accessability, scalability, and reliability. 
+- ☁️ My goal is to become a cloud developer due to my passion for developing code with impact for our future. I aspire to create new and improve existing technologies that increase accessability, scalability, reliability, and the quality of both the developer and user experience.
 - 📫 How to reach me kniffin29@gmail.com
 
 💻 Languages: JavaScript, Python, Java, C++, HTML, CSS, Matlab, and C# is in progress. 
@@ -12,7 +11,7 @@
 
 📚 Libraries: Redux, BCrypt, OAuth, OAuth2, JQuery. 
 
-👨‍💻 Other Technologies: AWS, Azure, Google Cloud, Git, Linux, PuTTY.
+👨‍💻 Other Technologies: AWS, Google Cloud, Git, Linux, PuTTY.
 
 📈 Technical Skills: Developing RESTful API's, Agile waterfall and DevOps methodologies, MVC structure
 
