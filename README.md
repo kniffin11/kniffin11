@@ -3,6 +3,8 @@
 - ☁️ My goal is to become a cloud developer due to my passion for developing code with impact for our future. I aspire to create new and improve existing technologies that increase accessability, scalability, reliability, and the quality of both the developer and user experience.
 - 📫 How to reach me kniffin29@gmail.com
 
+Unfortuantely my AWS account was hacked from somewhere in Asia and I'm struggling to resovle this issue with Amazon but intil then all of my EC2 instances have stopped running and I am working on removing the ties to that account. 
+
 💻 Languages: JavaScript, Python, Java, C++, HTML, CSS, Matlab, and C# is in progress. 
 
 🖼️ Frameworks: Docker, React.js, Express.js, Spring, Node.js, Bootstrap, Flask.
