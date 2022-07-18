@@ -2,7 +2,7 @@
 - 🌱 I’m currently looking for an entry level software engineering or full stack developer position
 - ☁️ My goal is to become a cloud developer due to my passion for developing code with impact for our future. I aspire to create new and improve existing technologies that increase accessability, scalability, reliability, and the quality of both the developer and user experience.
 
-Unfortuantely my AWS account was hacked and I'm struggling to resovle this issue with Amazon but until then all of my EC2 instances have stopped running and I am working on fixing these issues. 
+My AWS account was hacked, but I will soon redeploy three web apps: in python, java, and MERN, as soon as the security concerns are up. I use Ubuntu 20.02 as my AMI.
 
 💻 Languages: JavaScript, Python, Java, C++, HTML, CSS, Matlab, and C# is in progress. 
 
