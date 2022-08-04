@@ -4,7 +4,7 @@
 
 Save Travels URL can change after instance is rebooted, email me if the current doesn't work - Thank you!
 
-💻 Languages: JavaScript, Python, Java, C++, HTML, CSS, Matlab, and C# is in progress. 
+💻 Languages: JavaScript, Python, Java, C++, HTML, CSS, Matlab. 
 
 🖼️ Frameworks: Docker, React.js, Express.js, Spring, Node.js, Bootstrap, Flask.
 
