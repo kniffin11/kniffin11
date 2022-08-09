@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Sam Kniffin
-- 🌱 I’m currently looking for an entry level software engineering or full stack developer position
+- 🌱 I’m currently a software engineer at Ultralinq Healthcare Solutions
 - ☁️ My goal is to become a cloud developer due to my passion for developing code with impact for our future. I aspire to create new and improve existing technologies that increase accessability, scalability, reliability, and the quality of both the developer and user experience.
-
-Save Travels URL can change after instance is rebooted, email me if the current doesn't work - Thank you!
 
 💻 Languages: JavaScript, Python, Java, C++, HTML, CSS, Matlab. 
 
