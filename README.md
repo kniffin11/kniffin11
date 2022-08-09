@@ -10,7 +10,7 @@
 
 📚 Libraries: Redux, BCrypt, OAuth, OAuth2, JQuery. 
 
-👨‍💻 Other Technologies: AWS, Google Cloud, Git, Linux, PuTTY.
+👨‍💻 Other Technologies: AWS EC2 and ECS, Git, Linux, PuTTY.
 
 📈 Technical Skills: Developing RESTful API's, Agile waterfall and DevOps methodologies, MVC structure
 
