@@ -1,16 +1,17 @@
 - 👋 Hi, I’m Sam Kniffin
-- 🌱 I’m currently a software engineer at Ultralinq Healthcare Solutions
-- ☁️ My goal is to become a cloud developer due to my passion for developing code with impact for our future. I aspire to create new and improve existing technologies that increase accessability, scalability, reliability, and the quality of both the developer and user experience.
+- ☁️ I'm a young, enthusiastic, and pragmatic software engineer with an interest in backend development and dev ops. My long-term goal is to become a cloud engineer.
 
-💻 Languages: JavaScript, Python, Java, C++, HTML, CSS, Matlab. 
+💻 Languages: Bash, C++, Java, Javascript, Kotlin, PHP, Python, SQL, yaml. 
 
-🖼️ Frameworks: Docker, React.js, Express.js, Spring, Node.js, Bootstrap, Flask.
+🖼️ Frameworks: Docker, React.js, and Node.js.
 
-💾 Databases: MySQL, MongoDB Atlas and Compass.
+💾 Databases: MySQL, PostgreSQL, MongoDB Atlas and Compass.
 
-📚 Libraries: Redux, BCrypt, OAuth, OAuth2, JQuery. 
+👨‍💻 Other Technologies: Git, Linux, PuTTY.
 
-👨‍💻 Other Technologies: AWS EC2 and ECS, Git, Linux, PuTTY.
+☁️ Cloud Technologies: AWS EC2, ECS, and Cloud Formation. 
+
+📁 Software: JetBrains, JIRA, BitBucket, and Github. 
 
 📈 Technical Skills: Developing RESTful API's, Agile waterfall and DevOps methodologies, MVC structure
 
